@@ -5,6 +5,7 @@
       "branches": [
         "main"
       ]
+      workflow_dispatch: {}
     }
   },
   "jobs": {
